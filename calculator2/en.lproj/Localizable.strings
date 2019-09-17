@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  calculator2
+
+  Created by Андрей Зябкин on 04.03.16.
+  Copyright © 2016 Андрей Зябкин. All rights reserved.
+*/
+
+"ConvertTo10"="Let's convert %@ from %d to 10 number system:\n(";
+"ConvertFrom10"="Let's convert %f from 10 to %d number system:\n";
+"ConvertFrom10int"="Let's convert %d from 10 to %d number system:\n";
+"WriteFromTheEnd"="Now write last result and reminders backwords: %@";
+"ErrorFrom2to64"="Error, only systems from 2 to 64";
+"NotThatSystem"="It is not a valid number in selected number system";
+"Answer"="\nAnswer: %@\n";
+"AOST"="%d reminder %d\n";
+"celayaChast"="Let's convert the whole number:\n";
+
+"PerevedemDrobnuyChacst"="\nLet's convert the fractional part:\n";
+"ZapishemCeluyChast"="Now write integer parts of results from the top down %@\n";
+"Skompanuem"="Append fractional to integer part: %@.%@\n";
