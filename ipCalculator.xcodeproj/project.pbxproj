@@ -247,7 +247,7 @@
 				TargetAttributes = {
 					E6E67F141C7283A8005B0C96 = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = BW6V9N89KJ;
+						DevelopmentTeam = VC9ZPRP75H;
 					};
 					E6E67F2D1C7283A9005B0C96 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -264,7 +264,10 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				Base,
+				en,
+				ru,
 			);
 			mainGroup = E6E67F0C1C7283A8005B0C96;
 			productRefGroup = E6E67F161C7283A8005B0C96 /* Products */;
@@ -484,13 +487,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = VC9ZPRP75H;
 				INFOPLIST_FILE = calculator2/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = sindy.ipCalculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ipCalculator.app;
 				PRODUCT_NAME = MeConvert;
 				PROVISIONING_PROFILE = "";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -500,13 +504,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = VC9ZPRP75H;
 				INFOPLIST_FILE = calculator2/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = sindy.ipCalculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ipCalculator.app;
 				PRODUCT_NAME = MeConvert;
 				PROVISIONING_PROFILE = "";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
